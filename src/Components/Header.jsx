@@ -102,7 +102,7 @@ export default function Header(){
         
         <Title>
 
-           <Span style={{color:"#F48C06"}} >  Studing</Span> Online is now much easier
+           <Span style={{color:"#F48C06"}} >  Studying</Span> online is now much easier
         </Title>
 
        <Desc>
